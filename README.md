@@ -1,2 +1,2 @@
 # hackerrank-Problems
-hackerrank Problems Solutions
+hackerrank Problems Solutions for Data Structure Sections
