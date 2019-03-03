@@ -1,4 +1,4 @@
-package com.hackerrank.ds.prob1_20;
+package com.hackerrank.ds.arrays;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
