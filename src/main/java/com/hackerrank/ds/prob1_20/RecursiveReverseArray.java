@@ -6,7 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Lab1 {
+public class RecursiveReverseArray {
 
 	// Recurcise Approach for reverseArray function below.
 	static int[] reverseArray(int[] a) {
